@@ -288,7 +288,7 @@ footer h2 {
 
 
 
-/* Practice */
+
 
 
 
@@ -328,12 +328,15 @@ footer h2 {
         max-width: 100%;
         line-height: 50px;
     }
-    .content h3{
+
+    .content h3 {
         margin-bottom: 10px;
     }
-    .features-img img{
+
+    .features-img img {
         width: 70%;
     }
+
     .features-info h2 {
         font-size: 35px;
     }
@@ -360,31 +363,39 @@ footer h2 {
     .container {
         width: 85%;
     }
-    .logo img{
+
+    .logo img {
         width: 100px;
     }
-    .lang-btn{
+
+    .lang-btn {
         padding: 5px 10px;
         font-size: 12px;
     }
-    .lang-btn img{
+
+    .lang-btn img {
         width: 9px;
     }
-    .menu-btn{
+
+    .menu-btn {
         padding: 5px 10px;
         margin-left: 13px;
     }
-    .content{
+
+    .content {
         width: 80%;
         margin-top: 60px;
     }
-    .content h1{
+
+    .content h1 {
         font-size: 29px;
         line-height: 45px;
     }
-    .email-signup{
+
+    .email-signup {
         margin-bottom: 40px;
     }
+
     .features-info h2 {
         font-size: 35px;
     }
@@ -402,7 +413,7 @@ footer h2 {
     .features-row:nth-child(7) {
         flex-direction: column-reverse;
     }
-    
+
     .faq h2 {
         font-size: 30px;
     }
@@ -415,14 +426,15 @@ footer h2 {
     .accordian li label::after {
         font-size: 24px;
     }
-    .accordian input[type='radio']:checked+label+.accordian-content{
+
+    .accordian input[type='radio']:checked+label+.accordian-content {
         font-size: 13px;
     }
 
     .features-img img {
         width: 75%;
     }
-    
+
 }
 
 
@@ -492,14 +504,16 @@ footer h2 {
     .accordian li label::after {
         font-size: 24px;
     }
-    .accordian input[type='radio']:checked+label+.accordian-content{
+
+    .accordian input[type='radio']:checked+label+.accordian-content {
         font-size: 13px;
     }
 
     .features-img img {
         width: 75%;
     }
-    .row{
+
+    .row {
         flex-direction: column;
     }
 }
@@ -509,38 +523,48 @@ footer h2 {
 
 
 
-/* Galaxyfold landscape */
-@media only screen and (max-width:653px){
-    .content h1{
+/* Break-points-5 */
+
+@media only screen and (max-width:653px) {
+    .content h1 {
         font-size: 25px;
         line-height: 37px;
     }
+
     .content h1 {
         font-size: 23px;
     }
-    .content h3{
+
+    .content h3 {
         font-size: 15px;
-        
+
     }
-    .content p{
+
+    .content p {
         font-size: 14px;
     }
+
     .email-signup {
         margin-bottom: 65px;
     }
+
     .email-signup button {
         padding: 15px 25px;
         font-size: 12px;
     }
+
     .features-info h2 {
         font-size: 30px;
     }
+
     .features-info p {
         font-size: 15px;
     }
+
     .faq h2 {
         font-size: 30px;
     }
+
     .accordian li label {
         padding: 14px;
     }
@@ -551,137 +575,77 @@ footer h2 {
 
 
 
-/* Galaxy-fold */
-@media  screen and (max-width:280px){
-    .container{
+/* Break-points-6 */
+
+@media screen and (max-width:280px) {
+    .container {
         width: 85%;
     }
-    .logo img{
+
+    .logo img {
         width: 70px;
     }
+
     .lang-btn {
         padding: 3px 4px;
     }
+
     .menu-btn {
         padding: 4px 7px;
         margin-left: 6px;
     }
-    .content h1{
+
+    .content h1 {
         font-size: 25px;
         line-height: 37px;
     }
+
     .content h1 {
         font-size: 23px;
     }
-    .content h3{
+
+    .content h3 {
         font-size: 15px;
-        
+
     }
-    .content p{
+
+    .content p {
         font-size: 14px;
     }
+
     .email-signup button {
         padding: 10px 8px;
         font-size: 10px;
     }
+
     .features-info h2 {
         font-size: 25px;
     }
+
     .features-info p {
         font-size: 11px;
     }
+
     .faq h2 {
         font-size: 25px;
     }
+
     .accordian li label {
         font-size: 10px;
         padding: 6px;
     }
+
     .accordian li label::after {
         font-size: 18px;
     }
+
     .faq p {
         font-size: 12px;
     }
+
     footer h2 {
         font-size: 15px;
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- */
